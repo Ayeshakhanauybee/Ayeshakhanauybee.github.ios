@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    
+}
+h1{
+    Color: white;
+    font-size:50px;
+    font-width:bold;
+    text-align:center;
+}
+.box{
+    background-color:#15ffcb3b;
+    border:3.5px soild Brown;
+    padding:20px 20px 20px 20px;
+    overflow:hidden;
+    
+}
+.box img{
+    width:300px;
+    hight:auto;
+    
+    
+}
+.box a{
+    margin-bottom:100px;
+}
